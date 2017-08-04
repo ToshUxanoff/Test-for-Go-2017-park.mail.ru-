@@ -1,0 +1,1 @@
+# Test-for-Go-2017-park.mail.ru-
